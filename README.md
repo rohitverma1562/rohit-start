@@ -1,4 +1,4 @@
 # rohit-start
 this is my first repository
 <br>
-auther-rohit (sharma)
+auther-rohit verma
